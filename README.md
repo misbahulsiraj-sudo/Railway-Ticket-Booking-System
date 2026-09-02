@@ -34,8 +34,7 @@ Project Purpose
 
 This project was created to practice Python programming concepts such as functions, dictionaries, data handling, input validation, and basic application logic.
 
-THANK YOU 👋
-
-Author
-
+Author:
 Misbahul Siraj
+
+THANK YOU 👋
